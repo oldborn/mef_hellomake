@@ -3,7 +3,7 @@ INC=./include
 SRC=./src
 OBJ=./obj
 
-EXC_NAME=hellomake
+EXC_NAME=hellomake_m
 
 CFLAGS=-I $(INC)
 
